@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi GitHub 👋
 
 <!--
 **devines88/devines88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Inês! I have been working as a software developer since 2015. I'm specially interested in Frontend and I am currently learning React.js and Vue.js!
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
