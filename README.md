@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm Inês! I have been working as a software developer since 2015. 
 <br />
+<br />
 💖 I'm specially interested in Frontend <br />
 🌱 I’m currently learning React.js and Vue.js 🔥💪 <br />
 ⚡ Fun fact: I also like 🧗 <br />
