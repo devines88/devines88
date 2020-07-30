@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Inês! I have been working as a software developer since 2015.
-
-💖 I'm specially interested in Frontend
-🌱 I’m currently learning React.js and Vue.js 🔥💪
-⚡ Fun fact: I also like 🧗
+I'm Inês! I have been working as a software developer since 2015. 
+<br />
+💖 I'm specially interested in Frontend <br />
+🌱 I’m currently learning React.js and Vue.js 🔥💪 <br />
+⚡ Fun fact: I also like 🧗 <br />
